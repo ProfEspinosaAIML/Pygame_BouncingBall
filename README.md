@@ -40,3 +40,10 @@ These were the steps taken to start the project in GitHub and to synchronize the
 | **8. Modify the `README.md` file** | *This is not a Git command.*<br>Open the `README.md` file in Visual Studio Code and make your desired changes, like adding a project description or usage instructions. |
 | **9. Add and commit the new changes** | `git add README.md`<br>`git commit -m "Update README.md with project description"`<br>These commands stage and save the changes you made to the `README.md` file. |
 | **10. Push the final changes** | `git push`<br>This command uploads your final commit with the modified `README.md` file to your GitHub repository. |
+
+---
+
+### Cloning the project
+
+The project is available from: 
+https://github.com/ProfEspinosaAIML/Pygame_BouncingBall.git
