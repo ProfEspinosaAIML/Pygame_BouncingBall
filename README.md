@@ -6,7 +6,7 @@ This project began with a single request to create a Python program of a ball bo
 
 ---
 
-**Author**: John Doe
+**Author**: David Espinosa
 
 **Date Started**: September 2, 2025
 
